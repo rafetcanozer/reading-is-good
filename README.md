@@ -30,3 +30,11 @@ You can see all endpoints via http://localhost:9090/swagger-ui/index.html#/.
 
 
 -------------------------------------
+#### Postman
+
+You can request all endpoints via ReadingIsGood Api.postman_collection.json file.
+
+
+-------------------------------------
+
+
